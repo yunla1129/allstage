@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class AccountView {
 
+	
 	private AccountManager am=new AccountManager();
 	
 	public void registerView(){

@@ -1,7 +1,6 @@
 package com.woniu.onestage.instance0825;
 public class AccountManager {
 
-
 	  private Account accounts[];//存放很多个账户信息
 	  private  int size=5;//最大容量
 	  private int count;//实际容量

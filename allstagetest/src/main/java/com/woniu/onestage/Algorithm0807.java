@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Algorithm0807 {
 
+	
 	public static void main(String[] args) {
 //		t1();
 		

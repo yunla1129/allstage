@@ -1,7 +1,6 @@
 package com.woniu.onestage.instance0825;
 public class Account {
 
-
 	private String accountName;
 	private String accountPwd;
 	private double accountBlance;//”‡∂Ó

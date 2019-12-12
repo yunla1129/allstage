@@ -2,6 +2,7 @@ package com.woniu.onestage;
 
 import java.util.Scanner;
 
+
 public class Algorithm0812 {
 
 	public static void main(String[] args) {

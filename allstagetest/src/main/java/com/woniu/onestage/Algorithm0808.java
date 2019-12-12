@@ -2,6 +2,7 @@ package com.woniu.onestage;
 
 public class Algorithm0808 {
 
+	
 	public static void main(String[] args) {
 //		test1();
 		test2(10);
